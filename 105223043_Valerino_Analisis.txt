@@ -1,0 +1,12 @@
+1. Proses Pengembangan:
+Bootstrap 5 lebih cepat dalam pengaturan awal karena memiliki banyak komponen yang sudah bisa digunakan, seperti card, tombol, dan form.
+Tailwind CSS membutuhkan lebih banyak penulisan kelas utilitas, namun memberikan kontrol yang lebih besar terhadap gaya tampilan dan desain detail.
+
+2. Ukuran File & Kustomisasi:
+File Bootstrap lebih ringkas karena menggunakan sedikit kelas lebih deklaratif.
+File Tailwind lebih panjang karena setiap elemen memiliki banyak kelas utilitas.
+Kustomisasi di Bootstrap dilakukan dengan mengubah CSS atau variabel tema khusus, sedangkan di Tailwind dilakukan secara langsung melalui kelas utilitas atau pengaturan tema.
+
+3. Kesimpulan:
+Bootstrap 5 cocok untuk proyek yang cepat dengan komponen standar seperti dashboard atau halaman landing.
+Tailwind CSS cocok untuk proyek kreatif atau desain unik, seperti portofolio, yang membutuhkan kontrol lebih besar terhadap tampilan.
